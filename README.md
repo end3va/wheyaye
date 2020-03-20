@@ -1,2 +1,2 @@
 # whyaye
-A small repertoire of coding adventures by Geordie learning to code
+A small repertoire of coding adventures by a Geordie learning to code
